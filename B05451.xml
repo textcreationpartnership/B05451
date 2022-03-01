@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation, against deserters, and resetting of them.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05451</idno>
+            <idno type="STC">Wing S1586</idno>
+            <idno type="STC">ESTC R226040</idno>
+            <idno type="EEBO-CITATION">52529249</idno>
+            <idno type="OCLC">ocm 52529249</idno>
+            <idno type="VID">178976</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05451)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178976)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2775:47)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation, against deserters, and resetting of them.</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Scotland. Sovereign (1689-1694 : William and Mary)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heirs and successors of Andrew Anderson, Printer to their most excellent Majesties,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Signed at end: Gilb. Eliot. Cls. Sti. Concilii.</note>
+                  <note>Dated: Given under Our Signet at Edinburgh, the fourth day of April. And of Our Reign the fifth year, 1694.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Military deserters --  Legal status, laws, etc. --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:178976:1"/>
+            <!-- PDF PAGE 19 -->
+            <pb facs="tcp:178976:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <head>A PROCLAMATION, Againſt Deſerters, and Reſetting of them.</head>
+            <p>
+               <seg rend="decorInit">W</seg>ILIAM and MARY by the Grace of GOD, King and Queen of <hi>Great-Britain, France</hi> and <hi>Ireland,</hi> Defenders of the Faith; To  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  Macers of Our Privy Council, Meſſengers at Arms, Our sheriffs in that part, conjunctly and ſeverally, ſpeci<g ref="char:EOLhyphen"/>ally conſtitute, Greeting: Foraſmuch, as in obedience to the Orders Direct by Us, to the Commander in Chief of Our Forces within this Kingdom, and the Collonels and other Officers of the ſeveral Regiments, appointed by Us to be Tranſported for <hi>Flanders,</hi> The ſaids Collonels have their Regiments compleat and in good condition, ready to be Embarqued for Our Service in <hi>Flanders;</hi> And We Conſidering, that all Souldiers Liſted and Engaged in Our Service, ought to be intirely reſerved for that uſe, and no ways encouraged, inticed, or ſeduced to Deſert the ſame, nor reſet, harboured and ſheltered when they Deſert, or forſake the ſaid Service, or leave the ſame, otherways than by allowance, and a Paſs granted by their Superior Officers, conform to the Rules of Military Diſcipline; And that it is both the Intereſt of Our Service, and Honour of this Our antient Kingdom, That the Regi<g ref="char:EOLhyphen"/>ments now to be Embarqued, ſhould be full and compleat; Therefore We, with Advice of the Lords of Our Privy Council, pe<g ref="char:EOLhyphen"/>remptorily Prohibit and Diſcharge, all and ſundry Our Subjects within this Kingdom, whether Officers or Soldiers, or other perſons whatſomever, to intiſe, perſwade, or ſeduce any of the Souldiers in Our Service, and under Our Pay, and particularly in the Regi<g ref="char:EOLhyphen"/>ments under the Command of the Lord <hi>Strathnaver,</hi> Sir <hi>James Leſly,</hi> Collonel <hi>Buchan,</hi> and Collonel  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  
+               <hi>Hamilton,</hi> or any of them, now ready to be Embarqued, and Tranſported to <hi>Flanders,</hi> To Deſert, or leave Our ſaid Service, or to ſhelter, con<g ref="char:EOLhyphen"/>ceal, harbour, reſet and intertain any Soldier who Deſerts, or unduly leaves Our ſaid Service; And particularly any of the ſaids Regiments: Or who has Deſerted, left, or run away from the ſame, ſince the firſt Day of <hi>November</hi> laſt, without having a Paſs, ſigned and ſubſcribed by the Captain and Commanding Officer of the Regiment for the time, in which the ſaid Souldier or Souldiers laſt ſerved; Certifying all who ſhall come in the contrair hereof, that they and each of them ſhall be lyable for each Souldier intiſed, de<g ref="char:EOLhyphen"/>ſerting, or reſet, as ſaid is, in the ſum of an hundred pounds <hi>Scots</hi> to be decerned to be payed to the Captain under whom the ſaid Souldi<g ref="char:EOLhyphen"/>er Served, by the ordinary Magiſtrat of the place, where the Tranſgreſſor lives, and that by and attour the delivering up to the ſaid Cap<g ref="char:EOLhyphen"/>tain, the perſon of the Deſerter, or furniſhing another ſufficient Souldier in his ſtead: And for the more effectual Obſervance of the Premiſſes, We, with Advice foreſaid, Require and Command the Collonels, and other Officers of the reſpective Regiments, who are to ſtay and remain within this Kingdom, to deliver up to the Collonels and other Officers of the Regiments to be Tranſported for <hi>Flan<g ref="char:EOLhyphen"/>ders,</hi> all Deſerters ſince the firſt of <hi>November</hi> laſt, from any of the ſaids Regiments to be Tranſported, who are, or have been in Service, or Retained in the Regiments that are to ſtay at Home, and that before Imbarquing of the ſaids Regiments to be Tranſported, under the pain foreſaid: And further, that the Officers of the ſaids Regiments to ſtay at Home, with the Aſſiſtance and Concurrence of any Magiſtrat of the Bounds, and no otherways, ſeize and apprehend all concealed Deſerters of theſe Regiments whom they can diſcover, and give ac<g ref="char:EOLhyphen"/>count of them to the Commander in Chief of Our Forces, To the effect that they may be ſent abroad to the reſpective Regiments to which they belong. And to the effect that not only the Forces to ſtay at home, but all Our Leidges may know their hazard in the Pre<g ref="char:EOLhyphen"/>miſſes, We, with Advice foreſaid, Prohibit and Diſcharge any perſon who hath been in Our Service, to be received as a Tennent by any Heretor, or Servant to any Maſter of Family, or harboured by any perſon, or any Deſerter of the Regiments to go abroad ſince the firſt of <hi>November</hi> laſt, to be received Souldier in any Regiment or Company which ſtays at home, who ſhall not have a Paſs ſigned and ſubſcribed in manner foreſaid: As alſo, that no Stranger, though not a Deſerter, be received at any time betwixt and the fifteenth of <hi>May</hi> next, by any Heretor or Maſter of Family, to reſide with him without a ſufficient Teſtimonial from the Sheriff or his Deputs, or a Juſtice of Peace, or other Magiſtrats of the Bounds from whence they laſt came; Certifying all and every one, who contrary hereto ſhall receive, reſet, or conceal any Soldier, known to him to be a Deſerter, or Stranger without <hi>Paſs</hi> or Teſtimonial foreſaid, betwixt and the ſaid fifteenth Day of <hi>May,</hi> that they ſhall be lyable in the penalty above-mentioned, to be decerned to be payed in manner above-expreſt. And laſtly, for the more effectual reclaiming of ſuch as have Deſerted, to return to their Service, We with Advice foreſaid, Do fully Pardon and Indemnifie all and every one of the ſaids Deſerters of the ſaids Regiments to be Tranſport<g ref="char:EOLhyphen"/>ed to <hi>Flanders,</hi> who ſhall return to their Duty and Service, and render themſelves either to the ſaids Officers, before the ſaids Regiments ſhall be Embarqued, or to the Commander in Chief of Our Forces, betwixt and the firſt Day of <hi>May</hi> next to come; Certifying all ſuch as ſhall deſpiſe or neglect this Our Gracious Offer, that if thereafter apprehended, they ſhall be puniſhed without Mercy: And this Pro<g ref="char:EOLhyphen"/>clamation to continue and endure until the fifteenth Day of <hi>May</hi> next to come, and no longer, but prejudice of former Proclamations emitted againſt Deſerters, and the Officers their Right to them by vertue thereof. OUR WILL IS HEREFORE, and We Charge you ſtraitly and Command, that incontinent theſe Our Letters ſeen, ye paſs to the Mercat-Croſſe of <hi>Edinburgh,</hi> and to the remanent Mercat-Croſſes of the Head-Burghs of the ſeveral Shires of this our antient Kingdom, and there, in Our Name and Authority, by open Proclamation, make intimation of the Premiſſes. And Ordains theſe Preſents to be Printed, and Publiſhed at, and affixed upon the Doors of all the Paroch-Churches within this Kingdom.</p>
+            <closer>
+               <dateline>
+                  <hi>Given under Our Signet at</hi> Edinburgh, <date>
+                     <hi>the fourth day of April. And of Our Reign the fifth Year,</hi> 1694.</date>
+               </dateline>
+               <signed>
+                  <hi>Per actum Dominorum Seareti Concilii.</hi> GILB. ELIOT. <hi>Cis. Sti. Concilii.</hi>
+               </signed>
+            </closer>
+            <closer>GOD Save King <hi>William</hi> and Queen <hi>Mary.</hi>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heirs and Succeſſors of <hi>Andrew Anderſon,</hi> Printer to their moſt Excellent Majeſties, <hi>Anno DOM.</hi> 1694.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
